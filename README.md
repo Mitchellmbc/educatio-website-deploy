@@ -1,2 +1,2 @@
-# Educatio Website
+# educatio website
  
